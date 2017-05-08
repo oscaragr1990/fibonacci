@@ -1,2 +1,3 @@
 # fibonacci
-Serie de Fibonacci
+La serie de Fibonacci se basa en el principio de que un término se calcula sumando los dos términos anteriores así: F(n) = F(n-1) + F(n-2).
+Los primeros términos de la serie son: 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89,...
